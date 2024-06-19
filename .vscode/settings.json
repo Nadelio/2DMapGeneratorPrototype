@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\SENGa\\Downloads\\JNoise-4.1.0\\JNoise-4.1.0\\JNoise-4.1.0.jar"
+    ]
+}
