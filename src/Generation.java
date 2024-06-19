@@ -245,7 +245,7 @@ public class Generation {
         }
 
         try {
-            File outputfile = new File("map.png");
+            File outputfile = new File("map" + Main.mapName + ".png");
             ImageIO.write(image, "png", outputfile);
         } catch (IOException e) {
             e.printStackTrace();
