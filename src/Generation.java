@@ -1,3 +1,4 @@
+package src;
 import de.articdive.jnoise.core.api.functions.Interpolation;
 import de.articdive.jnoise.generators.noisegen.perlin.PerlinNoiseGenerator;
 import de.articdive.jnoise.generators.noisegen.random.white.WhiteNoiseGenerator;

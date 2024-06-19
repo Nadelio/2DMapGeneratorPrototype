@@ -1,3 +1,4 @@
+package src;
 public class Structures {
     private char[][] structure;
     private String name;
