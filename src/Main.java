@@ -16,6 +16,7 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the name of the map: ");
         mapName = sc.nextLine();
+        sc.close();
         File map = new File("./map_"+ mapName +".md");
         int seed = generateSeed();
         int[] bounds = {500, 500};
